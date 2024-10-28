@@ -32,7 +32,7 @@ ul.dropdown-menu li:hover {
 /* Solution */
 
 .dropdown-menu.visible {
-  animation: bounce 500ms alternate ease both;
+  animation: bounce 500ms ease;
   transform-origin: top;
 }
 
